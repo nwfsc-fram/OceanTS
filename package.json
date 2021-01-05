@@ -27,7 +27,7 @@
     "apache-arrow": "^0.4.1",
     "assert": "^1.4.1",
     "async-csv": "^2.1.1",
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "csv": "^5.1.1",
     "csv-write-stream": "^2.0.0",
     "csvtojson": "^2.0.8",
