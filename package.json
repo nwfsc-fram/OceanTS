@@ -35,7 +35,7 @@
     "fast-glob": "^2.2.6",
     "fast-xml-parser": "^3.12.16",
     "json2csv": "^4.4.1",
-    "log4js": "^4.1.0",
+    "log4js": "^6.4.0",
     "mathjs": "^5.8.0",
     "moment": "^2.24.0",
     "moment-timezone": "^0.5.23",
