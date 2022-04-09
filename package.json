@@ -37,7 +37,7 @@
     "json2csv": "^4.4.1",
     "log4js": "^4.1.0",
     "mathjs": "^5.8.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "moment-timezone": "^0.5.23",
     "papaparse": "^5.0.0",
     "ts-node": "^8.0.3",
